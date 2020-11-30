@@ -11,7 +11,7 @@ Original file is located at
 Berikut akan dijelaskan dasar-dasar Python.
  
 
-*   **Judul Buku**: Logka Matematika untuk Analisis Algoritma
+*   **Judul Buku**: Logika Matematika untuk Analisis Algoritma
 *   **Penulis**: Dr. Putu Harry Gunawan
 
 **Hello world**
