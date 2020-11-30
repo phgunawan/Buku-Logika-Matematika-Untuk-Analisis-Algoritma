@@ -11,7 +11,7 @@ Original file is located at
 Dalam program berikut akan diberikan contoh bagaimana kompleksitas waktu dihitung dari beberapa algoritma.
 
 
-*   **Judul Buku**: Logka Matematika untuk Analisis Algoritma
+*   **Judul Buku**: Logika Matematika untuk Analisis Algoritma
 *   **Penulis**: Dr. Putu Harry Gunawan
 
 ## Kompleksitas waktu linier
